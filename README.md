@@ -1,3 +1,5 @@
+Elections could avoid the pitfalls of human nature.
+
 # elections
 
 As a potential voter or candidate:
